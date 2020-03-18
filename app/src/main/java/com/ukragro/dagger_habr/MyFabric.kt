@@ -1,11 +1,9 @@
 package com.ukragro.dagger_habr
 
 class MyFabric{
-    val s = ""
-    val d = ""
-    val e = ""
     val a = ""
     val b = ""
     val c = ""
-
+    val d = ""
+    val e = ""
 }

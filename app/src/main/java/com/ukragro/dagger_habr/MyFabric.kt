@@ -6,4 +6,5 @@ class MyFabric{
     val c = ""
     val d = ""
     val e = ""
+    val g = ""
 }
